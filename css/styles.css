@@ -10133,3 +10133,18 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.language-container
+{
+  display: flex;
+  justify-content: flex-end;
+}
+.language-container img
+{
+    width: 30px;
+    height: 30px;
+    opacity: 0.7;
+}
+.language-container img:hover
+{
+    opacity: 1;
+}
