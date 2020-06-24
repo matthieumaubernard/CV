@@ -10148,3 +10148,7 @@ section.resume-section .resume-section-content {
 {
     opacity: 1;
 }
+.language-container a:nth-child(2)
+{
+  margin-left: 5px;
+}
