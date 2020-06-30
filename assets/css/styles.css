@@ -10137,6 +10137,8 @@ section.resume-section .resume-section-content {
 {
   display: flex;
   justify-content: flex-end;
+
+  padding: 10px;
 }
 .language-container img
 {
